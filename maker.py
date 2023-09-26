@@ -74,9 +74,9 @@ if __name__ == "__main__":
 
     while True:
         code_type = "classic"
-        use_proxies = True
+        use_proxies = False
 
-        scrape_proxies=True
+        scrape_proxies=False
 
 
         num_codes = 999999
